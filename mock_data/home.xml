@@ -1,0 +1,9 @@
+<response>
+    <message>Hej</message>
+    <instructions>
+        <text>Använd endpoints:</text>
+        <endpoint>/authors</endpoint>
+        <endpoint>/articles</endpoint>
+        <endpoint>/comments</endpoint>
+    </instructions>
+</response>

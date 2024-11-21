@@ -16,6 +16,7 @@ const loadXML = (fileName) => {
 };
 
 // Routes
+app.get("/", (req, res) => res.send(loadXML("home.xml")));
 app.get("/authors", (req, res) => res.send(loadXML("authors.xml")));
 app.get("/articles", (req, res) => res.send(loadXML("articles.xml")));
 app.get("/comments", (req, res) => res.send(loadXML("comments.xml")));
