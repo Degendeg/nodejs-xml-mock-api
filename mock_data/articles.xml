@@ -1,0 +1,52 @@
+<articles>
+    <article>
+        <id>1</id>
+        <title>Understanding Web Development</title>
+        <authorId>1</authorId>
+    </article>
+    <article>
+        <id>2</id>
+        <title>Introduction to Express</title>
+        <authorId>2</authorId>
+    </article>
+    <article>
+        <id>3</id>
+        <title>Mastering PHP</title>
+        <authorId>3</authorId>
+    </article>
+    <article>
+        <id>4</id>
+        <title>Learning React</title>
+        <authorId>4</authorId>
+    </article>
+    <article>
+        <id>5</id>
+        <title>Advanced CSS</title>
+        <authorId>5</authorId>
+    </article>
+    <article>
+        <id>6</id>
+        <title>Building APIs with Node</title>
+        <authorId>6</authorId>
+    </article>
+    <article>
+        <id>7</id>
+        <title>Exploring JavaScript</title>
+        <authorId>7</authorId>
+    </article>
+    <article>
+        <id>8</id>
+        <title>Backend Development with C#</title>
+        <authorId>8</authorId>
+    </article>
+    <article>
+        <id>9</id>
+        <title>Database Optimization Tips</title>
+        <authorId>9</authorId>
+    </article>
+    <article>
+        <id>10</id>
+        <title>Deploying Applications with Docker</title>
+        <authorId>10</authorId>
+    </article>
+</articles>

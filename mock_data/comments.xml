@@ -1,0 +1,52 @@
+<comments>
+    <comment>
+        <id>1</id>
+        <articleId>1</articleId>
+        <text>Great insights, yay!</text>
+    </comment>
+    <comment>
+        <id>2</id>
+        <articleId>2</articleId>
+        <text>Very helpful and I want to learn more.</text>
+    </comment>
+    <comment>
+        <id>3</id>
+        <articleId>3</articleId>
+        <text>This guide made me happy!</text>
+    </comment>
+    <comment>
+        <id>4</id>
+        <articleId>4</articleId>
+        <text>Tutorial is top-notch.</text>
+    </comment>
+    <comment>
+        <id>5</id>
+        <articleId>5</articleId>
+        <text>CSS explained clearly.</text>
+    </comment>
+    <comment>
+        <id>6</id>
+        <articleId>6</articleId>
+        <text>APIs - wow such coolness.</text>
+    </comment>
+    <comment>
+        <id>7</id>
+        <articleId>7</articleId>
+        <text>Great examples!</text>
+    </comment>
+    <comment>
+        <id>8</id>
+        <articleId>8</articleId>
+        <text>Helpful backend tips!</text>
+    </comment>
+    <comment>
+        <id>9</id>
+        <articleId>9</articleId>
+        <text>Optimization strategies worked wonders for me.</text>
+    </comment>
+    <comment>
+        <id>10</id>
+        <articleId>10</articleId>
+        <text>Docker deployment finally makes sense!</text>
+    </comment>
+</comments>

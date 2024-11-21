@@ -1,0 +1,42 @@
+<authors>
+    <author>
+        <id>1</id>
+        <name>Jane Doe</name>
+    </author>
+    <author>
+        <id>2</id>
+        <name>John Smith</name>
+    </author>
+    <author>
+        <id>3</id>
+        <name>Alice Johnson</name>
+    </author>
+    <author>
+        <id>4</id>
+        <name>Bob Brown</name>
+    </author>
+    <author>
+        <id>5</id>
+        <name>Carol Davis</name>
+    </author>
+    <author>
+        <id>6</id>
+        <name>David Wilson</name>
+    </author>
+    <author>
+        <id>7</id>
+        <name>Emma Garcia</name>
+    </author>
+    <author>
+        <id>8</id>
+        <name>Frank Moore</name>
+    </author>
+    <author>
+        <id>9</id>
+        <name>Grace Lee</name>
+    </author>
+    <author>
+        <id>10</id>
+        <name>Harry Taylor</name>
+    </author>
+</authors>
